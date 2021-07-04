@@ -1,0 +1,100 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#paragraph-container {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 50px;
+}
+.center-dots {
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.image {
+    background-color:white;
+    
+}
+.left-photo {
+    background-image: url("img/tina-dawson-kZYXUbkg5Ns-unsplash.jpg");
+    background-size: 600px;
+    padding-right: 500px;
+    height: 900px;
+    width: 100px; 
+}
+.quick-tip {
+    text-align:center;
+
+    position: relative;
+    left: 490px;
+    top: 5px;
+    color: white;
+    font-family: 'Stint Ultra Condensed';
+    box-sizing: border-box;
+}
+
+
+h1 {
+    position: relative;
+    top: 60px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+#menu-photo {
+    position: relative;
+    left: 230px;
+    top: 50px;
+    width: 430px;
+    height: 275px;
+
+}
+
+
+.icons {
+    margin-left: 60px;
+    position: relative;
+    left: 235px;
+    top: 50px;
+}
+
+span {
+    margin-left: 52px;
+    position: relative;
+    top: 50px;
+    left: 235px;
+
+}
+
+.second-span {
+    position: relative;
+    left: 250px;
+    margin-left: 35px;
+}
+
+
+.ingridients-head {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ol {
+    
+    line-height: 1.5em;
+    font-family:'Times New Roma';
+}
+
+ul {
+    line-height: 1.5em;
+    font-family:'Times New Roma';
+}
+
+.methods {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
